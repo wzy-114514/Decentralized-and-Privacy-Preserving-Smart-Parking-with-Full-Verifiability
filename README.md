@@ -1,4 +1,4 @@
-# Decentralized-and-Privacy-Preserving-Smart-Parking-with-Full-Verifiability
+# Decentralized and Privacy-Preserving Smart Parking with Secure Repetition and Full Verifiability
 
 ## Package Introduction
 - Package com mainly implements anonymous authentication.
